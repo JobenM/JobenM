@@ -1,13 +1,13 @@
-## Hello there 👋, I'm Joe.
+#### Hello there 👋, I'm Joe.
 
 Frontend/Fullstack developer based in Cambridge/London 🐄🇬🇧🏰
 
-## Current work
+#### Current work
 - I'm working at [tray.io](https://github.com/trayio). Building out onboarding experiences for our low code automation platform.
 - Learning about [Apollo](https://www.apollographql.com/) and how it can be optimised!
 - Follow along with my personal project [JobenM.github.io](https://jobenm.github.io/)
 
-## Old chapters
+#### Old chapters
 - I worked for [Clearscore](https://github.com/ClearScore). Where I built frontend and backend in the Fintech world. 🌍
 - I was a QA before my dev journey began. Quality is still a big part of what I do! ✅
 
