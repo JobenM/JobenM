@@ -5,7 +5,7 @@ Frontend/Fullstack developer based in Cambridge/London 🐄🇬🇧🏰
 #### Current work
 - I'm working at [Natwest](https://www.natwest.com/). Building out their business banking platforms.
 - Currently I'm working heavily with [NextJS](https://nextjs.org/) and learning about the latest iterations and how it can be used to spin up new apps fast and at scale.
-- Follow along with my personal project [[NomsAI](https://nomsai.app/)]
+- Follow along with my personal project [NomsAI](https://nomsai.app/)
 
 #### Old chapters
 - I worked at [Rightmove](https://rightmove.co.uk). Building out their green field new lending software propositions.
